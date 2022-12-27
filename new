@@ -1,0 +1,13 @@
+<style>
+     #logo img{
+        width: 50px;
+        border-radius: 8px;
+        border: 2px solid burlywood;
+        }
+        #logo {
+            color: yellowgreen;
+            width: 30px;
+            font-size: small;
+        
+        }
+</style>
